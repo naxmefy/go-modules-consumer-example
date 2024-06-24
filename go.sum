@@ -1,6 +1,8 @@
 github.com/naxmefy/go-modules/lib/a/b/c v0.0.0-20240624090033-77dbbcf41309 h1:/bFv22VeONuE6B12o81ovur2O0YNPfykabgj1kCcQUI=
 github.com/naxmefy/go-modules/lib/a/b/c v0.0.0-20240624090033-77dbbcf41309/go.mod h1:EwmnSbNBcdpEznqQxHay3VYj5qMoy88F/XOzMnIsiAg=
-github.com/naxmefy/go-modules/module1 v0.0.0-20240624085037-9e5941a2583b h1:+ySKYAKeC/rhlvJhDcip5gES2OBH3Ew3vJLeZPrHLn4=
-github.com/naxmefy/go-modules/module1 v0.0.0-20240624085037-9e5941a2583b/go.mod h1:k3ue+0BHWJ1KZqef3cz/0NaYda9MCZm17ALCLKsHtLM=
+github.com/naxmefy/go-modules/module1 v0.0.0-20240624090033-77dbbcf41309 h1:EDMQYC8xfHEVbzVr9dwF8kPqsFkWH5EULu5bUw2xUK8=
+github.com/naxmefy/go-modules/module1 v0.0.0-20240624090033-77dbbcf41309/go.mod h1:k3ue+0BHWJ1KZqef3cz/0NaYda9MCZm17ALCLKsHtLM=
+github.com/naxmefy/go-modules/module1and2 v0.0.0-20240624092426-d4868503b413 h1:vXDhEdT7hfCoikerjZ4Zd2R7LpcvxlaVUn9UQvGPpq0=
+github.com/naxmefy/go-modules/module1and2 v0.0.0-20240624092426-d4868503b413/go.mod h1:iMEIPo7MHGDW3qSKRDzqekLzdMzO5vtVrJf74IgI/wo=
 github.com/naxmefy/go-modules/module2 v0.0.0-20240624091949-68f96cbe1f48 h1:dmi3hMCx0ETtqsk9kAxHbl7CmQC9I2kzPM1L6qqTUlI=
 github.com/naxmefy/go-modules/module2 v0.0.0-20240624091949-68f96cbe1f48/go.mod h1:+Hz3ncNbMJSdoOAeOfTM02+gJr1Mei3QcefYVdvYKlI=
