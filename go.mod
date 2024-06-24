@@ -8,6 +8,7 @@ require (
 )
 
 require (
+	github.com/naxmefy/go-modules/lib/a/b v0.0.0-20240624100014-6234ce8c3503
 	github.com/naxmefy/go-modules/lib/a/b/c v0.0.0-20240624090033-77dbbcf41309
 	github.com/naxmefy/go-modules/module1and2 v0.0.0-20240624092426-d4868503b413
 )
